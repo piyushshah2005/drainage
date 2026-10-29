@@ -9,7 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@auth/mongodb-adapter": "^3.11.3",
     "bcryptjs": "^3.0.3",
     "framer-motion": "^14.7.1",
     "jsonwebtoken": "^9.0.3",
